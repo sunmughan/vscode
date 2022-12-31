@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "microbundle": "^0.3.1",
+    "microbundle": "^0.15.1",
     "typedoc": "^0.10.0",
     "typescript": "^2.6.2"
   }
